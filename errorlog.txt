@@ -1,0 +1,82 @@
+data/sound/baystart.ogg
+data/sound/baybeyond.ogg
+data/sound/bayquality.ogg
+data/sound/bayend.ogg
+data/sound/DFINTRO.ogg
+data/sound/DFPICK.ogg
+data/sound/DFRUBBLE.ogg
+data/sound/DFINTROEND.ogg
+DOUBLE TAGGED ITEM: Store Item in Stockpile, rough cat's eyes
+data/sound/baystart.ogg
+data/sound/baybeyond.ogg
+data/sound/bayquality.ogg
+data/sound/bayend.ogg
+data/sound/DFINTRO.ogg
+data/sound/DFPICK.ogg
+data/sound/DFRUBBLE.ogg
+data/sound/DFINTROEND.ogg
+data/sound/baystart.ogg
+data/sound/baybeyond.ogg
+data/sound/bayquality.ogg
+data/sound/bayend.ogg
+data/sound/DFINTRO.ogg
+data/sound/DFPICK.ogg
+data/sound/DFRUBBLE.ogg
+data/sound/DFINTROEND.ogg
+DOUBLE TAGGED ITEM: Store Item in Stockpile, -apricot wood bin <#2>-
+path fail: dwarf,144,71,173 -> 132,62,174: Id #8522:Path Goal Flee Terrain:Station Mill Building at 131,68,168
+data/sound/baystart.ogg
+data/sound/baybeyond.ogg
+data/sound/bayquality.ogg
+data/sound/bayend.ogg
+data/sound/DFINTRO.ogg
+data/sound/DFPICK.ogg
+data/sound/DFRUBBLE.ogg
+data/sound/DFINTROEND.ogg
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+DOUBLE TAGGED ITEM: Store Item in Stockpile, quartzite
+data/sound/baystart.ogg
+data/sound/baybeyond.ogg
+data/sound/bayquality.ogg
+data/sound/bayend.ogg
+data/sound/DFINTRO.ogg
+data/sound/DFPICK.ogg
+data/sound/DFRUBBLE.ogg
+data/sound/DFINTROEND.ogg
+path fail: cat,106,34,161 -> 107,34,161: Id #26002:Path Goal Seek Station:Station Owner at 104,33,161
+data/sound/baystart.ogg
+data/sound/baybeyond.ogg
+data/sound/bayquality.ogg
+data/sound/bayend.ogg
+data/sound/DFINTRO.ogg
+data/sound/DFPICK.ogg
+data/sound/DFRUBBLE.ogg
+data/sound/DFINTROEND.ogg
+DOUBLE TAGGED ITEM: Store Item in Stockpile, microcline
+DOUBLE TAGGED ITEM: Store Item in Stockpile, granite
+path fail: jabberer,11,8,18 -> 12,8,19: Id #26480:Path Goal Seek Station Flood:Station Marauder Mill at 12,8,19
+path fail: dwarf,Construct Building,170,69,166 -> 168,68,166: Id #13332:Path Goal Main Job Building:Station Mill Building at 160,32,158
+data/sound/baystart.ogg
+data/sound/baybeyond.ogg
+data/sound/bayquality.ogg
+data/sound/bayend.ogg
+data/sound/DFINTRO.ogg
+data/sound/DFPICK.ogg
+data/sound/DFRUBBLE.ogg
+data/sound/DFINTROEND.ogg
+DOUBLE TAGGED ITEM: Store Item in Stockpile, obsidian
+path fail: dwarf,Fish,28,138,178 -> 37,120,179: Id #22023:Path Goal Start Fish:Station None at 93,101,179
+data/sound/baystart.ogg
+data/sound/baybeyond.ogg
+data/sound/bayquality.ogg
+data/sound/bayend.ogg
+data/sound/DFINTRO.ogg
+data/sound/DFPICK.ogg
+data/sound/DFRUBBLE.ogg
+data/sound/DFINTROEND.ogg
